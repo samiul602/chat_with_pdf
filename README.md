@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chatbot that lets you upload any PDF and ask questions about its content. Powered by Groq LLaMA 3.1 and FAISS vector search.
 
-🔗 **Live Demo:** [Click here to try the app]https://chat-with-anypdf.streamlit.app/
+🔗 **Live Demo:** https://chat-with-anypdf.streamlit.app/
 
 ---
 
